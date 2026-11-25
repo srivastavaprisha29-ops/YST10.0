@@ -1,0 +1,5 @@
+# Reference assets and quality foundation
+
+Install requirements-visual.txt. Reference ingestion is local trusted-operator code, not an internet-facing upload endpoint. It accepts bounded still images, normalizes orientation, removes original metadata by re-encoding, extracts dominant colors, and stores content-addressed assets. Moodboards preserve references and art direction. All assets remain moderation-pending and moodboards generation-not-ready. Rights confirmation is self-attestation, not verification.
+
+Quality diagnostics report resolution and symmetric weighted palette distance. Palette similarity does not establish artistic fidelity, identity consistency, motion quality or safety. Intentional low-resolution art must not be penalized for its chosen resolution. Next: reference-conditioned inference, fictional character and set manifests, temporal consistency tests and human evaluation. No actual generative video adapter or moderation model is included here. Do not expose this module as a public upload service without isolation, access controls and tested moderation.
