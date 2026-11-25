@@ -1,0 +1,58 @@
+[
+  {
+    "id": "dialogue",
+    "medium": "2D illustration",
+    "prompt": "Two original fictional adult characters converse in a persistent pink room",
+    "checks": [
+      "character continuity",
+      "room continuity",
+      "speaker synchronization",
+      "style fidelity"
+    ]
+  },
+  {
+    "id": "watercolor",
+    "medium": "watercolor",
+    "prompt": "A painted garden with subtle wind",
+    "checks": [
+      "brush texture",
+      "temporal stability"
+    ]
+  },
+  {
+    "id": "pixel",
+    "medium": "pixel art",
+    "prompt": "A rainy retro city at native 320x180",
+    "checks": [
+      "pixel edge preservation",
+      "motion stability"
+    ]
+  },
+  {
+    "id": "collage",
+    "medium": "mixed media",
+    "prompt": "Paper cutouts animate across an editorial layout",
+    "checks": [
+      "layer continuity",
+      "texture preservation"
+    ]
+  },
+  {
+    "id": "natural",
+    "medium": "natural realism",
+    "prompt": "An ordinary cafe with restrained camera movement",
+    "checks": [
+      "motion plausibility",
+      "natural lighting"
+    ]
+  },
+  {
+    "id": "abstract",
+    "medium": "abstract",
+    "prompt": "Geometric forms transform rhythmically",
+    "checks": [
+      "composition",
+      "motion continuity"
+    ]
+  }
+]
